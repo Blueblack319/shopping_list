@@ -1,0 +1,18 @@
+.ask {
+  display: flex;
+  justify-content: space-between;
+}
+
+.ask form {
+  margin: auto 0;
+}
+
+.ask input {
+  height: 30px;
+  border: none;
+  border-bottom: 1px solid;
+}
+
+.ask input:focus {
+  outline: none;
+}
